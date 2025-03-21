@@ -53,7 +53,17 @@ public class GuessTheOutput {
 
 		System.out.print(p); //abc
 		//////////////////////////////////////////////////////////////////////////////////////
-		
+//		try {
+//		boolean flag=false;
+//		if (flag) {
+//	  		while (true) {
+//	   		}
+//	   	} else {
+//	   		System.exit(1);
+//	   	}
+//	} finally {
+//	   	System.out.println("In Finally");  // flag = true / false in both cases this stmt will not get printed
+//	}
 	}
 
 }
